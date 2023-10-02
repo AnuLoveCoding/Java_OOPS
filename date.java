@@ -6,5 +6,6 @@ class date{
         LocalDateTime myObj =  LocalDateTime.now();
 
         System.out.println(myObj);
+        
     }
 }
